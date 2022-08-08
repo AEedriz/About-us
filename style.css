@@ -131,13 +131,11 @@ a.btn2.light:hover{
     color: var(--button-color);
 }
 
-.content-one {
+.content-one.figure {
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 0px;
-    gap: 268px;
-
+    flex-wrap: wrap;
+    margin: 3em auto;
+    font-size: 12px;
 }
 /* Flex-Cntainer */
 .flex-container-one {
