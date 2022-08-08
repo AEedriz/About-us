@@ -131,37 +131,62 @@ a.btn2.light:hover{
     color: var(--button-color);
 }
 
+.content-one {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 268px;
+
+}
+/* Flex-Cntainer */
 .flex-container-one {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
     padding: 0px;
-    gap: 76px;     
+    gap: 76px;
+    font-size: 12px;     
 }
 .flex-container-two {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;     
+    align-items: flex-start;
+    padding: 0px;
+    gap: 76px;
+    font-size: 12px;       
 }
 .flex-container-three {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;     
+    align-items: flex-start;
+    padding: 0px;
+    gap: 76px; 
+    font-size: 12px;      
 }
 .flex-container-four {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;     
+    align-items: flex-start;
+    padding: 0px;
+    gap: 76px;
+    font-size: 12px;       
 }
 .flex-container-five {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;     
+    align-items: flex-start;
+    padding: 0px;
+    gap: 76px; 
+    font-size: 12px;     
 }
 .flex-container-six {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;     
+    align-items: flex-start;
+    padding: 0px;
+    gap: 76px;
+    font-size: 12px;      
 }
 
 
