@@ -131,12 +131,6 @@ a.btn2.light:hover{
     color: var(--button-color);
 }
 
-.content-one.figure {
-    display: flex;
-    flex-wrap: wrap;
-    margin: 3em auto;
-    font-size: 12px;
-}
 /* Flex-Cntainer */
 .flex-container-one {
     display: flex;
