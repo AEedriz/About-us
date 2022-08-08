@@ -131,12 +131,37 @@ a.btn2.light:hover{
     color: var(--button-color);
 }
 
-.flex-container {
+.flex-container-one {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    gap: 76px;
-    padding: 0px;   
+    padding: 0px;
+    gap: 76px;     
+}
+.flex-container-two {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;     
+}
+.flex-container-three {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;     
+}
+.flex-container-four {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;     
+}
+.flex-container-five {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;     
+}
+.flex-container-six {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;     
 }
 
 
